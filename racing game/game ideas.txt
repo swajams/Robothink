@@ -1,0 +1,34 @@
+- Golf game
+- shooter game
+- parkour game
+- smash bros
+- airplane game
+- f1/racing game
+
+racing game 
+- race car
+- track
+- other racers
+- diffrent weather
+- car damage
+- timing 
+- upgrage car (engine,color)
+- scoreboard
+- total 20 cars
+- diffrent tracks
+- top down
+- 
+
+
+
+game logic
+- start
+- control WASD
+- if touch edge penalty
+- be first racers
+- placing, timing
+
+
+
+
+
